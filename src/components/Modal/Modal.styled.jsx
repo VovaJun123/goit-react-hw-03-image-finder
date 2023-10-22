@@ -9,7 +9,7 @@ export const Overlay = styled.div`
   width: 100vw;
   height: 100vh;
   display: flex;
-  background: #79b9f9;
+  background: #621616;
   z-index: 1200;
 `;
 
